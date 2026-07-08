@@ -662,3 +662,10 @@ section h2{
 }
 
 }
+nav ul li a.active{
+    color:#1b8f3d;
+}
+
+nav ul li a.active::after{
+    width:100%;
+}
